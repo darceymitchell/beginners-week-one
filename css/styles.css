@@ -1,0 +1,54 @@
+html{
+  font-family: 'Raleway', sans-serif;
+}
+
+.top {
+  background-color: pink;
+  width: 190px;
+}
+
+.middle {
+  background-color: pink;
+}
+
+h1 {
+  color: white;
+}
+
+.main_bg {
+  background-color: #bffeff
+}
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+overflow: hidden;
+background-color: #fc95f6;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+
+li a:hover {
+background-color: #fa3c9e;
+}
+
+.test {
+  color: white;
+}
